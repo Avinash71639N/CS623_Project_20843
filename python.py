@@ -5,7 +5,7 @@ con = psycopg2.connect(
     host="localhost",
     database="DBMS_PROJECT_CS623",
     user="postgres",
-    password="bcjqSIj8Y5M8641#")
+    password="005566")
     
 print(con)
 
